@@ -1,0 +1,1263 @@
+2024-05-01 13:01:28,317 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:01:28,317 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:01:48,440 - [INFO]: "POST /api/v1/login/ HTTP/1.1" 200 575
+2024-05-01 13:01:48,440 - [INFO]: "POST /api/v1/login/ HTTP/1.1" 200 575
+2024-05-01 13:04:48,151 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:04:48,151 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:04:49,820 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:04:49,820 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:07:15,108 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:07:15,108 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:07:16,479 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:07:16,479 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:07:41,447 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:07:41,447 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:07:42,837 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:07:42,837 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:07:59,476 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:07:59,476 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:08:00,963 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:08:00,963 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:08:12,160 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:08:12,160 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:08:13,583 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:08:13,583 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:08:41,120 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:08:41,120 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:08:42,442 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:08:42,442 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:08:51,053 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:08:51,053 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:08:52,374 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:08:52,374 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:10:12,263 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:10:12,263 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:10:13,674 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:10:13,674 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:10:18,122 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:10:18,122 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:10:20,140 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:10:20,140 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:10:28,791 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:10:28,791 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:10:30,402 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:10:30,402 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:11:10,073 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:11:10,073 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:11:11,320 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:11:11,320 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:11:21,413 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:11:21,413 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:11:22,840 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:11:22,840 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:11:30,841 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:11:30,841 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:11:32,157 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:11:32,157 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:11:40,961 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:11:40,961 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:11:42,393 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:11:42,393 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:11:59,499 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:11:59,499 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:12:00,809 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:12:00,809 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:12:22,444 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:12:22,444 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:12:23,934 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:12:23,934 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:12:42,300 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:12:42,300 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:12:43,621 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:12:43,621 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:13:15,817 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:13:15,817 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:13:17,162 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:13:17,162 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:13:22,033 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:13:22,033 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:13:24,094 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:13:24,094 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:15:12,241 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:15:12,241 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:15:13,709 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:15:13,709 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:16:16,129 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:16:16,129 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:16:17,392 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:16:17,392 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:17:53,596 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:17:53,596 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 13:17:55,027 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:17:55,027 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:23:12,212 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:23:12,212 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:23:13,545 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:23:13,545 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:24:15,064 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:24:15,064 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:24:16,449 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:24:16,449 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:30:54,551 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:30:54,551 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:30:56,517 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:30:56,517 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:31:30,698 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:31:30,698 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:31:32,208 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:31:32,208 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:31:44,590 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:31:44,590 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:31:46,198 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:31:46,198 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:34:55,235 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:34:55,235 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:34:56,672 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:34:56,672 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:35:07,983 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:35:07,983 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:35:09,335 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:35:09,335 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:35:44,067 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:35:44,067 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:35:45,382 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:35:45,382 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:35:57,587 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:35:57,587 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:35:58,985 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:35:58,985 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:36:17,056 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:36:17,056 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:36:18,376 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:36:18,376 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:36:31,823 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:36:31,823 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:36:33,526 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:36:33,526 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:36:42,928 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:36:42,928 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:36:44,388 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:36:44,388 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:38:27,392 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:38:27,392 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:38:28,872 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:38:28,872 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:38:33,278 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:38:33,278 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:38:34,841 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:38:34,841 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:38:43,844 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:38:43,844 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\authentication.py changed, reloading.
+2024-05-01 13:38:45,913 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:38:45,913 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:38:49,423 - [INFO]: User Kishor logged in
+2024-05-01 13:38:49,423 - [INFO]: "POST /api/v1/login/ HTTP/1.1" 200 575
+2024-05-01 13:38:49,423 - [INFO]: "POST /api/v1/login/ HTTP/1.1" 200 575
+2024-05-01 13:41:38,779 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-01 13:41:38,779 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-01 13:41:40,504 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:41:40,504 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:41:44,779 - [INFO]: User Kishor logged in
+2024-05-01 13:41:44,782 - [INFO]: "POST /api/v1/login/ HTTP/1.1" 200 575
+2024-05-01 13:41:44,782 - [INFO]: "POST /api/v1/login/ HTTP/1.1" 200 575
+2024-05-01 13:44:38,750 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 13:44:38,750 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 13:44:40,288 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:44:40,288 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:44:47,043 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 13:44:47,043 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 13:44:48,466 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 13:44:48,466 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:43:53,294 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:43:53,294 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:43:54,936 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:43:54,936 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:44:34,416 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:44:34,416 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:44:36,220 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:44:36,220 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:51:29,183 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:51:29,183 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:51:30,552 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:51:30,552 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:51:40,671 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:51:40,671 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:51:42,089 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:51:42,089 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:53:55,219 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:53:55,219 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:53:56,553 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:53:56,553 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:54:27,018 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:54:27,018 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:54:28,535 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:54:28,535 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:55:43,529 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:55:43,529 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 14:55:44,943 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 14:55:44,943 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:00:39,288 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 15:00:39,288 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 15:00:40,498 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:00:40,498 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:03:09,049 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 15:03:09,049 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 15:03:10,366 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:03:10,366 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:07:32,183 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\jrfSerializer.py changed, reloading.
+2024-05-01 15:07:32,183 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\jrfSerializer.py changed, reloading.
+2024-05-01 15:07:33,580 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:07:33,580 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:07:53,185 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 15:07:53,185 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 15:07:54,523 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:07:54,523 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:13:37,325 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 15:13:37,325 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 15:13:38,652 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:13:38,652 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:16:31,601 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:16:31,649 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:16:31,657 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:16:31,673 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:16:31,690 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:16:31,699 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:16:31,714 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:16:31,730 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:16:31,771 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16518
+2024-05-01 15:16:31,771 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16518
+2024-05-01 15:17:47,593 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:17:47,626 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:17:47,642 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:17:47,657 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:17:47,666 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:17:47,682 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:17:47,699 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:17:47,707 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:17:47,747 - [INFO]: "GET /api/v1/jrf/list?sort_by=jrf_no&order_by=desc HTTP/1.1" 200 16518
+2024-05-01 15:17:47,747 - [INFO]: "GET /api/v1/jrf/list?sort_by=jrf_no&order_by=desc HTTP/1.1" 200 16518
+2024-05-01 15:19:49,542 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:19:49,578 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:19:49,590 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:19:49,605 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:19:49,612 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:19:49,628 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:19:49,644 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:19:49,665 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:19:49,734 - [INFO]: "GET /api/v1/jrf/list?sort_by=jrf_no&sort_order=desc HTTP/1.1" 200 16518
+2024-05-01 15:19:49,734 - [INFO]: "GET /api/v1/jrf/list?sort_by=jrf_no&sort_order=desc HTTP/1.1" 200 16518
+2024-05-01 15:20:20,001 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:20,060 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:20,081 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:20,101 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:20,123 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:20,148 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:20,163 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:20,183 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:20,247 - [INFO]: "GET /api/v1/jrf/list?sort_by=jrf_id&sort_order=desc HTTP/1.1" 200 16518
+2024-05-01 15:20:20,247 - [INFO]: "GET /api/v1/jrf/list?sort_by=jrf_id&sort_order=desc HTTP/1.1" 200 16518
+2024-05-01 15:20:45,968 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:45,998 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:46,012 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:46,022 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:46,033 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:46,038 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:46,055 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:46,064 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:20:46,104 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16518
+2024-05-01 15:20:46,104 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16518
+2024-05-01 15:21:18,787 - [WARNING]: Not Found: /api/v1/jrf/list
+2024-05-01 15:21:18,792 - [WARNING]: "GET /api/v1/jrf/list?sort_by=jrf_id&sort_order=desc&page=2 HTTP/1.1" 404 26
+2024-05-01 15:21:18,792 - [WARNING]: "GET /api/v1/jrf/list?sort_by=jrf_id&sort_order=desc&page=2 HTTP/1.1" 404 26
+2024-05-01 15:21:25,218 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:21:25,249 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:21:25,257 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:21:25,273 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:21:25,282 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:21:25,300 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:21:25,319 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:21:25,331 - [WARNING]: min_value in DecimalField should be Decimal type.
+2024-05-01 15:21:25,379 - [INFO]: "GET /api/v1/jrf/list?sort_by=jrf_id&sort_order=desc HTTP/1.1" 200 16518
+2024-05-01 15:21:25,379 - [INFO]: "GET /api/v1/jrf/list?sort_by=jrf_id&sort_order=desc HTTP/1.1" 200 16518
+2024-05-01 15:26:29,525 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\masters.py changed, reloading.
+2024-05-01 15:26:29,525 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\masters.py changed, reloading.
+2024-05-01 15:26:31,074 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:26:31,074 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:26:39,925 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\masters.py changed, reloading.
+2024-05-01 15:26:39,925 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\masters.py changed, reloading.
+2024-05-01 15:26:41,273 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 15:26:41,273 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:29:28,045 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 17:29:28,045 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 17:29:29,846 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:29:29,846 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:30:51,354 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 17:30:51,354 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 17:30:52,761 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:30:52,761 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:31:01,738 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 17:31:01,738 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 17:31:02,983 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:31:02,983 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:31:18,834 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16518
+2024-05-01 17:31:18,834 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16518
+2024-05-01 17:31:43,292 - [INFO]: "GET /api/v1/jrf/list?sort_by=commodity&sort_order=desc HTTP/1.1" 200 16518
+2024-05-01 17:31:43,292 - [INFO]: "GET /api/v1/jrf/list?sort_by=commodity&sort_order=desc HTTP/1.1" 200 16518
+2024-05-01 17:32:22,359 - [INFO]: "GET /api/v1/jrf/list?sort_by=commodity&sort_order=asc HTTP/1.1" 200 16518
+2024-05-01 17:32:22,359 - [INFO]: "GET /api/v1/jrf/list?sort_by=commodity&sort_order=asc HTTP/1.1" 200 16518
+2024-05-01 17:33:21,905 - [WARNING]: Unauthorized: /api/v1/jrf/list
+2024-05-01 17:33:21,913 - [WARNING]: "GET /api/v1/jrf/list?sort_by=commodity&sort_order=asc HTTP/1.1" 401 66
+2024-05-01 17:33:21,913 - [WARNING]: "GET /api/v1/jrf/list?sort_by=commodity&sort_order=asc HTTP/1.1" 401 66
+2024-05-01 17:39:22,957 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 17:39:22,957 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 17:39:24,485 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:39:24,485 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:50:08,213 - [WARNING]: Bad Request: /api/v1/jrf/update
+2024-05-01 17:50:08,214 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 32
+2024-05-01 17:50:08,214 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 32
+2024-05-01 17:50:18,151 - [WARNING]: Bad Request: /api/v1/jrf/update
+2024-05-01 17:50:18,156 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 32
+2024-05-01 17:50:18,156 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 32
+2024-05-01 17:51:11,526 - [WARNING]: Bad Request: /api/v1/jrf/update
+2024-05-01 17:51:11,528 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 32
+2024-05-01 17:51:11,528 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 32
+2024-05-01 17:51:19,254 - [INFO]: JRF updated successfully.
+2024-05-01 17:51:19,296 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2082
+2024-05-01 17:51:19,296 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2082
+2024-05-01 17:55:21,319 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 17:55:21,319 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-01 17:55:23,225 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:55:23,225 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:55:50,545 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\jrfSerializer.py changed, reloading.
+2024-05-01 17:55:50,545 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\jrfSerializer.py changed, reloading.
+2024-05-01 17:55:51,969 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:55:51,969 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 17:56:30,073 - [INFO]: JRF updated successfully.
+2024-05-01 17:56:30,126 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2106
+2024-05-01 17:56:30,126 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2106
+2024-05-01 18:03:13,321 - [INFO]: JRF updated successfully.
+2024-05-01 18:03:13,358 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2232
+2024-05-01 18:03:13,358 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2232
+2024-05-01 19:12:43,283 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 19:12:43,283 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 19:13:12,515 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16852
+2024-05-01 19:13:12,515 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16852
+2024-05-01 19:14:42,610 - [INFO]: JRF fetched successfully.
+2024-05-01 19:14:43,154 - [INFO]: "POST /api/v1/jrf/get HTTP/1.1" 200 2231
+2024-05-01 19:14:43,154 - [INFO]: "POST /api/v1/jrf/get HTTP/1.1" 200 2231
+2024-05-01 19:17:44,673 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\pagination.py changed, reloading.
+2024-05-01 19:17:44,673 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\pagination.py changed, reloading.
+2024-05-01 19:17:46,078 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 19:17:46,078 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 19:17:59,808 - [INFO]: JRF fetched successfully.
+2024-05-01 19:17:59,855 - [INFO]: "POST /api/v1/jrf/get HTTP/1.1" 200 2231
+2024-05-01 19:17:59,855 - [INFO]: "POST /api/v1/jrf/get HTTP/1.1" 200 2231
+2024-05-01 19:29:41,396 - [INFO]: "GET /api/v1/jrf/list?sort_by=commodity&sort_order=asc HTTP/1.1" 200 16852
+2024-05-01 19:29:41,396 - [INFO]: "GET /api/v1/jrf/list?sort_by=commodity&sort_order=asc HTTP/1.1" 200 16852
+2024-05-01 20:14:10,486 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 20:14:10,486 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 20:14:12,373 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:14:12,373 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:22:27,016 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 20:22:27,016 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 20:22:28,063 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:22:28,063 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:22:38,561 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 20:22:38,561 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-01 20:22:39,512 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:22:39,512 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:22:53,278 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-01 20:22:53,278 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-01 20:22:54,366 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:22:54,366 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:23:35,519 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-01 20:23:35,519 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-01 20:23:36,420 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:23:36,420 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:23:41,562 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16822
+2024-05-01 20:23:41,562 - [INFO]: "GET /api/v1/jrf/list HTTP/1.1" 200 16822
+2024-05-01 20:24:20,680 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-01 20:24:20,680 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-01 20:24:21,745 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:24:21,745 - [INFO]: Watching for file changes with StatReloader
+2024-05-01 20:24:24,703 - [WARNING]: Forbidden: /api/v1/jrf/list
+2024-05-01 20:24:24,703 - [WARNING]: "GET /api/v1/jrf/list HTTP/1.1" 403 63
+2024-05-01 20:24:24,703 - [WARNING]: "GET /api/v1/jrf/list HTTP/1.1" 403 63
+2024-05-01 20:24:32,700 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16822
+2024-05-01 20:24:32,700 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16822
+2024-05-01 20:25:15,170 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16822
+2024-05-01 20:25:15,170 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16822
+2024-05-02 10:03:36,024 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-02 10:03:36,024 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-02 10:03:38,332 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:03:38,332 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:03:51,507 - [ERROR]: Internal Server Error: /api/v1/jrf/list
+Traceback (most recent call last):
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\viewsets.py", line 116, in view
+    handler = getattr(self, action)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'JRFListViewset' object has no attribute 'abc'
+2024-05-02 10:03:51,511 - [ERROR]: "POST /api/v1/jrf/list HTTP/1.1" 500 71416
+2024-05-02 10:03:51,511 - [ERROR]: "POST /api/v1/jrf/list HTTP/1.1" 500 71416
+2024-05-02 10:04:09,503 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:04:09,503 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:04:14,859 - [ERROR]: Internal Server Error: /api/v1/jrf/list
+Traceback (most recent call last):
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\viewsets.py", line 116, in view
+    handler = getattr(self, action)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'JRFListViewset' object has no attribute 'abc'
+2024-05-02 10:04:14,865 - [ERROR]: "POST /api/v1/jrf/list HTTP/1.1" 500 71416
+2024-05-02 10:04:14,865 - [ERROR]: "POST /api/v1/jrf/list HTTP/1.1" 500 71416
+2024-05-02 10:04:58,639 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-02 10:04:58,639 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-02 10:05:00,985 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:05:00,985 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:05:05,790 - [WARNING]: Forbidden: /api/v1/jrf/list
+2024-05-02 10:05:05,791 - [WARNING]: "POST /api/v1/jrf/list HTTP/1.1" 403 63
+2024-05-02 10:05:05,791 - [WARNING]: "POST /api/v1/jrf/list HTTP/1.1" 403 63
+2024-05-02 10:06:19,737 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 10:06:19,737 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 10:06:21,135 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:06:21,135 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:06:24,521 - [ERROR]: Internal Server Error: /api/v1/jrf/list
+Traceback (most recent call last):
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\viewsets.py", line 116, in view
+    handler = getattr(self, action)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'JRFListViewset' object has no attribute 'post'
+2024-05-02 10:06:24,526 - [ERROR]: "POST /api/v1/jrf/list HTTP/1.1" 500 71422
+2024-05-02 10:06:24,526 - [ERROR]: "POST /api/v1/jrf/list HTTP/1.1" 500 71422
+2024-05-02 10:06:55,048 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-02 10:06:55,048 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-02 10:06:57,582 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:06:57,582 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 10:07:00,523 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 2326
+2024-05-02 10:07:00,523 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 2326
+2024-05-02 10:07:54,604 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 147
+2024-05-02 10:07:54,604 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 147
+2024-05-02 10:08:05,858 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 2205
+2024-05-02 10:08:05,858 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 2205
+2024-05-02 10:08:30,391 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:08:30,391 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:08:38,799 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:08:38,799 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:09:20,881 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:09:20,881 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:09:37,956 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:09:37,956 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:11:17,518 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:11:17,518 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:11:30,933 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:11:30,933 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:12:23,573 - [WARNING]: Bad Request: /api/v1/jrf/list
+2024-05-02 10:12:23,574 - [WARNING]: "POST /api/v1/jrf/list?page=2 HTTP/1.1" 400 108
+2024-05-02 10:12:23,574 - [WARNING]: "POST /api/v1/jrf/list?page=2 HTTP/1.1" 400 108
+2024-05-02 10:12:40,316 - [WARNING]: Not Found: /api/v1/jrf/list
+2024-05-02 10:12:40,317 - [WARNING]: "POST /api/v1/jrf/list?page=2 HTTP/1.1" 404 26
+2024-05-02 10:12:40,317 - [WARNING]: "POST /api/v1/jrf/list?page=2 HTTP/1.1" 404 26
+2024-05-02 10:13:52,423 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:13:52,423 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:14:27,194 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 10:14:27,194 - [INFO]: "POST /api/v1/jrf/list HTTP/1.1" 200 16851
+2024-05-02 12:39:22,926 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 12:39:22,926 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 12:39:24,903 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:39:24,903 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:39:37,380 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 12:39:37,380 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 12:39:38,963 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:39:38,963 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:39:47,328 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 12:39:47,328 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 12:39:49,086 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:39:49,086 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:39:58,318 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 12:39:58,318 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 12:40:00,077 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:40:00,077 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:52:59,150 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\migrations\0015_tcrcuser_usr_2fa_method.py changed, reloading.
+2024-05-02 12:52:59,150 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\migrations\0015_tcrcuser_usr_2fa_method.py changed, reloading.
+2024-05-02 12:53:01,866 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:53:01,866 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:54:14,820 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:54:14,820 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:57:36,186 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:57:36,186 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 12:58:58,927 - [INFO]: User Kishor logged in
+2024-05-02 12:58:58,936 - [INFO]: "POST /api/v1/login/ HTTP/1.1" 200 575
+2024-05-02 12:58:58,936 - [INFO]: "POST /api/v1/login/ HTTP/1.1" 200 575
+2024-05-02 13:00:39,953 - [WARNING]: Bad Request: /api/v1/sampleinward/create
+2024-05-02 13:00:39,953 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 59
+2024-05-02 13:00:39,953 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 59
+2024-05-02 13:06:42,466 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 13:06:42,466 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 13:06:43,793 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 13:06:43,793 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 13:07:19,562 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 13:07:19,562 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 13:07:21,254 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 13:07:21,254 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 13:07:36,224 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 13:07:36,224 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 13:07:37,624 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 13:07:37,624 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 13:07:48,679 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 13:07:48,679 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 13:07:50,122 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 13:07:50,122 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 13:08:17,844 - [WARNING]: Bad Request: /api/v1/sampleinward/create
+2024-05-02 13:08:17,852 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 74
+2024-05-02 13:08:17,852 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 74
+2024-05-02 13:08:26,870 - [WARNING]: Bad Request: /api/v1/sampleinward/create
+2024-05-02 13:08:26,870 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 59
+2024-05-02 13:08:26,870 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 59
+2024-05-02 13:08:39,399 - [WARNING]: Bad Request: /api/v1/sampleinward/create
+2024-05-02 13:08:39,400 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 74
+2024-05-02 13:08:39,400 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 74
+2024-05-02 14:04:14,009 - [WARNING]: Bad Request: /api/v1/sampleinward/create
+2024-05-02 14:04:14,010 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 59
+2024-05-02 14:04:14,010 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 59
+2024-05-02 14:04:37,471 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 14:04:37,471 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 14:04:38,855 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 14:04:38,855 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 14:04:42,060 - [WARNING]: Bad Request: /api/v1/sampleinward/create
+2024-05-02 14:04:42,061 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 55
+2024-05-02 14:04:42,061 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 55
+2024-05-02 14:37:56,692 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 14:37:56,692 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:02:09,099 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\masters.py changed, reloading.
+2024-05-02 15:02:09,099 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\masters.py changed, reloading.
+2024-05-02 15:02:10,987 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:02:10,987 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:04:04,283 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:04:04,283 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:04:06,065 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:04:06,065 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:04:16,848 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:04:16,848 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:04:18,697 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:04:18,697 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:04:44,703 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:04:44,703 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:04:46,172 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:04:46,172 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:04:54,757 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:04:54,757 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:04:56,438 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:04:56,438 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:05:26,908 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:05:26,908 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:05:28,668 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:05:28,668 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:05:40,546 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:05:40,546 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:05:42,078 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:05:42,078 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:05:53,168 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:05:53,168 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:05:54,468 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:05:54,468 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:06:05,669 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:06:05,669 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:06:07,111 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:06:07,111 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:09:11,144 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:09:11,144 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:09:12,706 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:09:12,706 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:09:43,425 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:09:43,425 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:09:44,637 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:09:44,637 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:10:01,552 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:10:01,552 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:10:03,034 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:10:03,034 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:10:23,488 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:10:23,488 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:10:24,759 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:10:24,759 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:15:43,148 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 15:15:43,148 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 15:15:44,389 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:15:44,389 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:16:10,945 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 15:16:10,945 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 15:16:12,237 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:16:12,237 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:16:26,824 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 15:16:26,824 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 15:16:28,171 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:16:28,171 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:23:18,633 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:23:18,633 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:23:19,925 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:23:19,925 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:26:30,796 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:26:30,796 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:26:32,216 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:26:32,216 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:27:10,019 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:27:10,019 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:27:11,245 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:27:11,245 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:27:22,024 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:27:22,024 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 15:27:23,351 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:27:23,351 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:35:15,312 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:35:15,312 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:35:16,745 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:35:16,745 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:35:36,003 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:35:36,003 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:35:37,361 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:35:37,361 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:35:44,386 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:35:44,386 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:35:46,349 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:35:46,349 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:35:51,020 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:35:51,020 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:35:52,361 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:35:52,361 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:36:03,391 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:36:03,391 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:36:04,713 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:36:04,713 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:36:56,515 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:36:56,515 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:36:57,754 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:36:57,754 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:37:24,165 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:37:24,165 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:37:25,653 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:37:25,653 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:37:40,417 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:37:40,417 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:37:41,963 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:37:41,963 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:37:46,651 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:37:46,651 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 15:37:48,358 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:37:48,358 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:38:53,582 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:38:53,582 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:38:54,875 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:38:54,875 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:39:17,356 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:39:17,356 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:39:18,630 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:39:18,630 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:39:30,684 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:39:30,684 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:39:31,977 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:39:31,977 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:41:41,541 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:41:41,541 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:41:43,008 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:41:43,008 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:44:04,207 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:44:04,207 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:44:05,804 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:44:05,804 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:44:25,529 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:44:25,529 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:44:26,933 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:44:26,933 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:45:06,319 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:45:06,319 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:45:07,803 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:45:07,803 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:45:12,015 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:45:12,015 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:45:13,458 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:45:13,458 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:51:34,203 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:51:34,203 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:51:35,699 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:51:35,699 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:51:57,500 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:51:57,500 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:51:58,637 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:51:58,637 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:52:08,748 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:52:08,748 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:52:10,071 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:52:10,071 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:57:18,379 - [WARNING]: Unauthorized: /api/v1/jrf/update
+2024-05-02 15:57:18,379 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 401 66
+2024-05-02 15:57:18,379 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 401 66
+2024-05-02 15:59:16,610 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:59:16,610 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:59:18,257 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:59:18,257 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:59:29,539 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:59:29,539 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 15:59:31,053 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 15:59:31,053 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:03:09,777 - [INFO]: JRF updated successfully.
+2024-05-02 16:03:09,821 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2253
+2024-05-02 16:03:09,821 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2253
+2024-05-02 16:03:50,121 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:03:50,121 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:03:51,459 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:03:51,459 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:03:56,682 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:03:56,682 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:03:57,925 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:03:57,925 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:04:09,449 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:04:09,449 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:04:10,831 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:04:10,831 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:04:31,199 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:04:31,199 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:04:32,443 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:04:32,443 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:06:04,689 - [INFO]: JRF updated successfully.
+2024-05-02 16:06:04,745 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2253
+2024-05-02 16:06:04,745 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2253
+2024-05-02 16:07:18,095 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\jrfSerializer.py changed, reloading.
+2024-05-02 16:07:18,095 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\jrfSerializer.py changed, reloading.
+2024-05-02 16:07:19,920 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:07:19,920 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:08:14,336 - [INFO]: JRF updated successfully.
+2024-05-02 16:08:14,385 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2296
+2024-05-02 16:08:14,385 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2296
+2024-05-02 16:09:37,051 - [WARNING]: Bad Request: /api/v1/jrf/update
+2024-05-02 16:09:37,059 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 29
+2024-05-02 16:09:37,059 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 29
+2024-05-02 16:10:10,476 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:10:10,476 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:10:11,797 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:10:11,797 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:10:41,618 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:10:41,618 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:10:43,157 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:10:43,157 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:10:47,808 - [INFO]: JRF updated successfully.
+2024-05-02 16:10:47,857 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2150
+2024-05-02 16:10:47,857 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2150
+2024-05-02 16:22:56,684 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:22:56,684 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:22:57,928 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:22:57,928 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:23:27,698 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:23:27,698 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:23:29,194 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:23:29,194 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:23:40,287 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:23:40,287 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:23:41,662 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:23:41,662 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:24:13,084 - [INFO]: JRF updated successfully.
+2024-05-02 16:24:13,149 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2150
+2024-05-02 16:24:13,149 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2150
+2024-05-02 16:24:25,213 - [INFO]: JRF updated successfully.
+2024-05-02 16:24:25,257 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2150
+2024-05-02 16:24:25,257 - [INFO]: "PUT /api/v1/jrf/update HTTP/1.1" 200 2150
+2024-05-02 16:33:40,014 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:33:40,014 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:33:41,542 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:33:41,542 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:33:45,699 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:33:45,699 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:33:47,398 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:33:47,398 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:34:35,696 - [WARNING]: Bad Request: /api/v1/jrf/update
+2024-05-02 16:34:35,696 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 42
+2024-05-02 16:34:35,696 - [WARNING]: "PUT /api/v1/jrf/update HTTP/1.1" 400 42
+2024-05-02 16:34:45,614 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:34:45,614 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:34:47,091 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:34:47,091 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:35:44,038 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:35:44,038 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:35:45,370 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:35:45,370 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:35:54,038 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:35:54,038 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:35:55,618 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:35:55,618 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:36:32,572 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:36:32,572 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:36:34,402 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:36:34,402 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:36:52,919 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:36:52,919 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:36:54,308 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:36:54,308 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:39:20,399 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:39:20,399 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-02 16:39:21,768 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:39:21,768 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:39:35,917 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:39:35,917 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-02 16:39:37,808 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:39:37,808 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:39:57,401 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:39:57,401 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:39:58,643 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:39:58,643 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:44:46,906 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:44:46,906 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:44:48,259 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:44:48,259 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:46:16,196 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:46:16,196 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:46:17,630 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:46:17,630 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:46:35,295 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:46:35,295 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:46:36,736 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:46:36,736 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:47:10,662 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:47:10,662 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-02 16:47:12,057 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:47:12,057 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:49:21,005 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 16:49:21,005 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 16:49:22,455 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:49:22,455 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:49:30,673 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 16:49:30,673 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 16:49:31,997 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:49:31,997 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:51:12,701 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 16:51:12,701 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 16:51:14,139 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:51:14,139 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:51:56,880 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 16:51:56,880 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 16:51:58,594 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:51:58,594 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:52:06,767 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 16:52:06,767 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 16:52:08,026 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:52:08,026 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:59:34,334 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 16:59:34,334 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 16:59:35,885 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 16:59:35,885 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:00:09,440 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 17:00:09,440 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 17:00:11,091 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:00:11,091 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:02:30,217 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 17:02:30,217 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 17:02:31,673 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:02:31,673 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:02:41,649 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 17:02:41,649 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-02 17:02:43,097 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:02:43,097 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:03:03,354 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 17:03:03,354 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInward.py changed, reloading.
+2024-05-02 17:03:05,005 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:03:05,005 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:10:08,015 - [ERROR]: Internal Server Error: /api/v1/sampleinward/create
+Traceback (most recent call last):
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py", line 35, in create
+    return self._create_sample_inward(smpl_inwrd_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py", line 67, in _create_sample_inward
+    inward_number = lab_id.lab_code + new_seq_num
+                    ^^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'lab_code'
+2024-05-02 17:10:08,021 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 101945
+2024-05-02 17:10:08,021 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 101945
+2024-05-02 17:11:21,747 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 17:11:21,747 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 17:11:23,132 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:11:23,132 - [INFO]: Watching for file changes with StatReloader
+2024-05-02 17:11:33,614 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-02 17:11:33,614 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-03 15:03:19,638 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:03:19,638 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:03:57,876 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\jwttoken.py changed, reloading.
+2024-05-03 15:03:57,876 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\views\jwttoken.py changed, reloading.
+2024-05-03 15:03:58,810 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:03:58,810 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:04:05,697 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-03 15:04:05,697 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\urls.py changed, reloading.
+2024-05-03 15:04:06,521 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:04:06,521 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:11:39,186 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-03 15:11:39,186 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-03 15:11:40,040 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:11:40,040 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:16:20,030 - [WARNING]: Bad Request: /api/v1/sampleinward/create
+2024-05-03 15:16:20,030 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 54
+2024-05-03 15:16:20,030 - [WARNING]: "POST /api/v1/sampleinward/create HTTP/1.1" 400 54
+2024-05-03 15:20:01,918 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:01,918 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:02,682 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:02,682 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:16,895 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:16,895 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:17,705 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:17,705 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:23,169 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:23,169 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:24,095 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:24,095 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:31,895 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:31,895 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:32,697 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:32,697 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:54,106 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:54,106 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\serializers\sampleInwardSerializer.py changed, reloading.
+2024-05-03 15:20:54,905 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:54,905 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:20:59,142 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:20:59,142 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:21:26,953 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:21:26,953 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:21:27,968 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:21:27,968 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:21:28,924 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:21:28,924 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:31:54,544 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:31:54,544 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:31:55,365 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:31:55,365 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:32:13,251 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:32:13,251 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:32:14,039 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:32:14,039 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:32:19,325 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:32:19,325 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:32:20,257 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:32:20,257 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:32:40,929 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:32:40,929 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 15:33:55,912 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:33:55,912 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:33:56,649 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:33:56,649 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:34:22,272 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:34:22,272 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:34:23,136 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:34:23,136 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:35:06,350 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:35:06,350 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:35:07,094 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:35:07,094 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:35:59,788 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:35:59,788 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:36:00,539 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:36:00,539 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:36:10,141 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:36:10,141 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 15:36:10,919 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:36:10,919 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:38:39,271 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-03 15:38:39,271 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\jrf.py changed, reloading.
+2024-05-03 15:38:40,067 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 15:38:40,067 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:36:20,093 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:36:20,093 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:36:21,031 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:36:21,031 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:36:31,140 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:36:31,140 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:36:32,052 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:36:32,052 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:41:02,817 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:41:02,817 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:41:03,633 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:41:03,633 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:41:41,967 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:41:41,967 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:41:42,779 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:41:42,779 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:41:50,347 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:41:50,347 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:41:51,187 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:41:51,187 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:42:20,422 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:42:20,422 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:42:21,214 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:42:21,214 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:42:40,561 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:42:40,561 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\models\sampleInward.py changed, reloading.
+2024-05-03 16:42:41,304 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:42:41,304 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:45:21,357 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:45:21,357 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:45:22,501 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:45:22,501 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:45:27,521 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 16:45:27,521 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 16:45:28,795 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 16:45:28,795 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 16:45:29,994 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 16:45:29,994 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 16:45:30,934 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 16:45:30,934 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 559
+2024-05-03 16:45:31,882 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 560
+2024-05-03 16:45:31,882 - [INFO]: "POST /api/v1/sampleinward/create HTTP/1.1" 201 560
+2024-05-03 16:50:47,215 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-03 16:50:47,215 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\jrfViewset.py changed, reloading.
+2024-05-03 16:50:47,975 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:50:47,975 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:51:03,172 - [ERROR]: JRF creation failed.
+2024-05-03 16:51:03,172 - [WARNING]: Bad Request: /api/v1/jrf/create
+2024-05-03 16:51:03,173 - [WARNING]: "POST /api/v1/jrf/create HTTP/1.1" 400 42
+2024-05-03 16:51:03,173 - [WARNING]: "POST /api/v1/jrf/create HTTP/1.1" 400 42
+2024-05-03 16:51:30,860 - [INFO]: JRF created successfully.
+2024-05-03 16:51:30,865 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:51:30,865 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:05,366 - [INFO]: JRF created successfully.
+2024-05-03 16:52:05,371 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:05,371 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:14,645 - [INFO]: JRF created successfully.
+2024-05-03 16:52:14,657 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:14,657 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:16,085 - [INFO]: JRF created successfully.
+2024-05-03 16:52:16,088 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:16,088 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:17,233 - [INFO]: JRF created successfully.
+2024-05-03 16:52:17,236 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:17,236 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:18,371 - [INFO]: JRF created successfully.
+2024-05-03 16:52:18,374 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:18,374 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:19,680 - [INFO]: JRF created successfully.
+2024-05-03 16:52:19,684 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:19,684 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:20,695 - [INFO]: JRF created successfully.
+2024-05-03 16:52:20,704 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:20,704 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:21,644 - [INFO]: JRF created successfully.
+2024-05-03 16:52:21,649 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:21,649 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:22,564 - [INFO]: JRF created successfully.
+2024-05-03 16:52:22,569 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:52:22,569 - [INFO]: "POST /api/v1/jrf/create HTTP/1.1" 200 2168
+2024-05-03 16:53:40,778 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:53:40,778 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:53:41,611 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:53:41,611 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:53:52,706 - [ERROR]: Internal Server Error: /api/v1/sampleinward/create
+Traceback (most recent call last):
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2024-05-03 16:53:52,709 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 82190
+2024-05-03 16:53:52,709 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 82190
+2024-05-03 16:54:34,192 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:54:34,192 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:54:35,172 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:54:35,172 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:54:37,537 - [ERROR]: Internal Server Error: /api/v1/sampleinward/create
+Traceback (most recent call last):
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2024-05-03 16:54:37,539 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 82190
+2024-05-03 16:54:37,539 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 82190
+2024-05-03 16:54:48,748 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:54:48,748 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:54:49,528 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:54:49,528 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:54:54,699 - [ERROR]: Internal Server Error: /api/v1/sampleinward/create
+Traceback (most recent call last):
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2024-05-03 16:54:54,701 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 82190
+2024-05-03 16:54:54,701 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 82190
+2024-05-03 16:54:55,990 - [ERROR]: Internal Server Error: /api/v1/sampleinward/create
+Traceback (most recent call last):
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2024-05-03 16:54:56,003 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 82190
+2024-05-03 16:54:56,003 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 82190
+2024-05-03 16:57:22,447 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:57:22,447 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 16:57:23,357 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 16:57:23,357 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 17:01:10,476 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 17:01:10,476 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 17:01:11,240 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 17:01:11,240 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 17:01:32,882 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 17:01:32,882 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 17:01:33,726 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 17:01:33,726 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 17:02:04,036 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 17:02:04,036 - [INFO]: D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py changed, reloading.
+2024-05-03 17:02:04,949 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 17:02:04,949 - [INFO]: Watching for file changes with StatReloader
+2024-05-03 17:02:07,383 - [ERROR]: Internal Server Error: /api/v1/sampleinward/create
+Traceback (most recent call last):
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\tcrc_back_end\dev\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py", line 40, in create
+    return self._create_sample_inward_details(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\tcrc_back_end\lms_api\viewsets\sampleInwardViewset.py", line 128, in _create_sample_inward_details
+    SampleInwardDetail.objects.filter(
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\db\models\sql\query.py", line 1427, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\db\models\sql\query.py", line 1237, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\tcrc_back_end\dev\Lib\site-packages\django\db\models\sql\query.py", line 1725, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'submitted_sample' into field. Choices are: smpl_detail_created_by, smpl_detail_created_by_id, smpl_detail_created_time, smpl_detail_dos, smpl_detail_pkging_condition, smpl_detail_recpt_mode, smpl_detail_sample_mark, smpl_detail_seal_number, smpl_detail_smpl_condtion, smpl_detail_smpl_id, smpl_detail_smpl_inwrd_id, smpl_detail_smpl_inwrd_id_id, smpl_detail_smpl_qty, smpl_detail_smpl_set_id, smpl_detail_smpl_set_id_id, smpl_detail_updated_by, smpl_detail_updated_by_id, smpl_detail_updated_time, smpl_inwrd_detail_id
+2024-05-03 17:02:07,388 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 153203
+2024-05-03 17:02:07,388 - [ERROR]: "POST /api/v1/sampleinward/create HTTP/1.1" 500 153203
+2024-05-03 17:02:36,039 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
+2024-05-03 17:02:36,039 - [INFO]: D:\tcrc_back_end\tcrc_back_end\tcrc_back_end\settings.py changed, reloading.
