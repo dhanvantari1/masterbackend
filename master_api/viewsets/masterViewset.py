@@ -15,7 +15,7 @@ from ..models.masters import (
     CommodityGroup,
     TenantMaster,
     Basis,
-    CommoditySpecs
+    CommoditySpecs,
 )
 from ..serializers.masterSerializers import (
     CommoditySerializer,
@@ -34,7 +34,7 @@ from ..serializers.masterSerializers import (
     CommodityGroupSerializer,
     TenantMasterSerializer,
     BasisSerializer,
-    CommoditySpecsSerializer
+    CommoditySpecsSerializer,
 )
 from rest_framework import viewsets
 from rest_framework.response import Response
@@ -58,13 +58,45 @@ models = {
     "commodity_group": (CommodityGroup, CommodityGroupSerializer),
     "tenant_master": (TenantMaster, TenantMasterSerializer),
     "basis": (Basis, BasisSerializer),
-    "commodity_specs": (CommoditySpecs, CommoditySpecsSerializer)
+    "commodity_specs": (CommoditySpecs, CommoditySpecsSerializer),
 }
 
 
 class MasterCreateViewSet(viewsets.ViewSet):
-    def create(self, request):
+    """
+    A viewset for creating new instances of models.
 
+    Supported models:
+    - Commodity
+    - Country
+    - State
+    - Group
+    - Parameter
+    - Standard
+    - Company
+    - Branch
+    - Lab
+    - Roles
+    - Mode
+    - Entity
+    - EntityRolesRights
+    - CommodityGroup
+    - TenantMaster
+    - Basis
+    - CommoditySpecs
+    """
+
+    def create(self, request):
+        """
+        Create a new instance of a model.
+
+        Parameters:
+        - model_name (str): The name of the model to create an instance of.
+        - data (dict or list): The data to create the instance(s) with.
+
+        Returns:
+        - Response: The response containing the status, message, and data.
+        """
         model_name = request.data.get("model_name")
         data = request.data.get("data")
 
@@ -78,7 +110,7 @@ class MasterCreateViewSet(viewsets.ViewSet):
                 status=status.HTTP_400_BAD_REQUEST,
             )
 
-        model_class,serializer_class = models[model_name]
+        model_class, serializer_class = models[model_name]
 
         if isinstance(data, list):
             # Create multiple Mode records
@@ -121,7 +153,41 @@ class MasterCreateViewSet(viewsets.ViewSet):
 
 
 class MasterUpdateViewSet(viewsets.ViewSet):
+    """
+    A viewset for updating instances of models.
+
+    Supported models:
+    - Commodity
+    - Country
+    - State
+    - Group
+    - Parameter
+    - Standard
+    - Company
+    - Branch
+    - Lab
+    - Roles
+    - Mode
+    - Entity
+    - EntityRolesRights
+    - CommodityGroup
+    - TenantMaster
+    - Basis
+    - CommoditySpecs
+    """
+
     def update(self, request):
+        """
+        Update an instance of a model.
+
+        Parameters:
+        - model_name (str): The name of the model to update an instance of.
+        - id (int): The ID of the instance to update.
+        - data (dict): The data to update the instance with.
+
+        Returns:
+        - Response: The response containing the status, message, and data.
+        """
         model_name = request.data.get("model_name")
         id = request.data.get("id")
         data = request.data.get("data")
@@ -173,7 +239,6 @@ class MasterUpdateViewSet(viewsets.ViewSet):
                 status=status.HTTP_400_BAD_REQUEST,
             )
         else:
-
             return Response(
                 {
                     "status": status.HTTP_404_NOT_FOUND,
@@ -185,7 +250,40 @@ class MasterUpdateViewSet(viewsets.ViewSet):
 
 
 class MasterDeleteViewSet(viewsets.ViewSet):
+    """
+    A viewset for deleting instances of models.
+
+    Supported models:
+    - Commodity
+    - Country
+    - State
+    - Group
+    - Parameter
+    - Standard
+    - Company
+    - Branch
+    - Lab
+    - Roles
+    - Mode
+    - Entity
+    - EntityRolesRights
+    - CommodityGroup
+    - TenantMaster
+    - Basis
+    - CommoditySpecs
+    """
+
     def delete(self, request):
+        """
+        Delete an instance of a model.
+
+        Parameters:
+        - model_name (str): The name of the model to delete an instance of.
+        - id (int): The ID of the instance to delete.
+
+        Returns:
+        - Response: The response containing the status, message, and data.
+        """
         model_name = request.data.get("model_name")
         if model_name not in models:
             return Response(
@@ -193,7 +291,7 @@ class MasterDeleteViewSet(viewsets.ViewSet):
                 status=status.HTTP_400_BAD_REQUEST,
             )
 
-        model_class, serializer_class = models[model_name]
+        (model_class,) = models[model_name]
         try:
             instance = model_class.objects.get(pk=request.data.get("id"))
         except model_class.DoesNotExist:
@@ -217,7 +315,39 @@ class MasterDeleteViewSet(viewsets.ViewSet):
 
 
 class MasterListViewSet(viewsets.ViewSet):
+    """
+    A viewset for listing instances of models.
+
+    Supported models:
+    - Commodity
+    - Country
+    - State
+    - Group
+    - Parameter
+    - Standard
+    - Company
+    - Branch
+    - Lab
+    - Roles
+    - Mode
+    - Entity
+    - EntityRolesRights
+    - CommodityGroup
+    - TenantMaster
+    - Basis
+    - CommoditySpecs
+    """
+
     def list(self, request):
+        """
+        List instances of a model.
+
+        Parameters:
+        - model_name (str): The name of the model to list instances of.
+
+        Returns:
+        - Response: The response containing the status, message, and data.
+        """
         model_name = request.data.get("model_name")
         if model_name not in models:
             return Response(
@@ -254,7 +384,40 @@ class MasterListViewSet(viewsets.ViewSet):
 
 
 class MasterRetrieveViewSet(viewsets.ViewSet):
+    """
+    A viewset for retrieving instances of models.
+
+    Supported models:
+    - Commodity
+    - Country
+    - State
+    - Group
+    - Parameter
+    - Standard
+    - Company
+    - Branch
+    - Lab
+    - Roles
+    - Mode
+    - Entity
+    - EntityRolesRights
+    - CommodityGroup
+    - TenantMaster
+    - Basis
+    - CommoditySpecs
+    """
+
     def retrieve(self, request):
+        """
+        Retrieve an instance of a model.
+
+        Parameters:
+        - id (int): The ID of the instance to retrieve.
+        - model_name (str): The name of the model to retrieve an instance of.
+
+        Returns:
+        - Response: The response containing the status, message, and data.
+        """
         id = request.data.get("id")
         model_name = request.data.get("model_name")
         if model_name not in models:
@@ -293,12 +456,21 @@ class MasterRetrieveViewSet(viewsets.ViewSet):
 
 
 def human_readable_errors(serializer):
+    """
+    Convert serializer errors to human-readable format.
+
+    Parameters:
+    - serializer (Serializer): The serializer containing the errors.
+
+    Returns:
+    - list: The list of human-readable error messages.
+    """
     errors = dict(serializer.errors)
     human_readable_errors = []
 
     for field, error_messages in errors.items():
         for error_message in error_messages:
-            print(error_messages)
+
             human_readable_errors.append(f"{error_message}")
 
     return " ".join(human_readable_errors)
