@@ -82,6 +82,8 @@ messages = {
         "commodity_group": "Commodity Group created successfully",
         "tenant_master": "Tenant Master created successfully",
         "commodity_specs": "Commodity Specs created successfully",
+        "company": "Company created successfully",
+        "branch":"Branch created successfully"       
         # Add more models as needed
     },
     "delete": {
@@ -92,6 +94,8 @@ messages = {
         "commodity_group": "Commodity Group deleted successfully",
         "tenant_master": "Tenant Master deleted successfully",
         "commodity_specs": "Commodity Specs deleted successfully",
+        "company": "Company deleted successfully",
+        "branch":"Branch deleted successfully",
         # Add more models as needed
     },
     "update": {
@@ -102,6 +106,8 @@ messages = {
         "commodity_group": "Commodity Group updated successfully",
         "tenant_master": "Tenant Master updated successfully",
         "commodity_specs": "Commodity Specs updated successfully",
+        "company": "Company updated successfully",
+        "branch":"Branch updated successfully",
         # Add more models as needed
     },
     "fetch": {
@@ -112,6 +118,8 @@ messages = {
         "commodity_group": "Commodity Group fetched successfully",
         "tenant_master": "Tenant Master fetched successfully",
         "commodity_specs": "Commodity Specs fetched successfully",
+        "company": "Company fetched successfully",
+        "branch":"Branch fetched successfully",
         # Add more models as needed
     },
     
@@ -124,6 +132,8 @@ messages = {
         "commodity_group": "Commodity Group not found",
         "tenant_master": "Tenant Master not found",
         "commodity_specs": "Commodity Specs not found",
+        "company": "Company not found",
+        "branch":"Branch not found",
         # Add more models as needed
     },
 
@@ -135,6 +145,8 @@ messages = {
         "commodity_group": "Commodity Group not created",
         "tenant_master": "Tenant Master not created",
         "commodity_specs": "Commodity Specs not created",
+        "company": "Company not created",
+        "branch":"Branch not created",
         # Add more models as needed
 
     }

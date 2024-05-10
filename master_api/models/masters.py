@@ -258,13 +258,18 @@ class Company(models.Model):
     # Primary key for the company
     cmp_id = models.AutoField(primary_key=True)
 
+    fk_tenant_id = models.ForeignKey(TenantMaster, on_delete=models.CASCADE)
+
+    tenant_code = models.CharField(max_length=10, null=False)
+
     # Name of the company
     cmp_name = models.CharField(max_length=255, unique=True, null=False)
+    
 
     # Address of the company
     cmp_address = models.TextField()
 
-    cmp_code = models.CharField(max_length=10, unique=True, null=False)
+    cmp_code = models.CharField(max_length=10, null=False)
 
     # Email of the company
     cmp_email = models.EmailField(unique=True)
@@ -294,11 +299,24 @@ class Company(models.Model):
     # IEC number of the company
     cmp_iec_no = models.CharField(max_length=255, unique=True, null=False)
 
+    cmp_seal = models.CharField(max_length=255, null=False)
+
+    cmp_stamp = models.TextField()
+
+    cmp_compliance_authority = models.TextField()
+    
     # Time when the company was created
     cmp_created_time = models.DateTimeField(auto_now_add=True, null=True, blank=True)
 
     # Time when the company was last updated
     cmp_updated_time = models.DateTimeField(auto_now=True, null=True, blank=True)
+
+    # Created By
+    cmp_created_by = models.CharField(max_length=255, null=True, blank=True)
+
+    # Updated By
+    cmp_updated_by = models.CharField(max_length=255, null=True, blank=True)
+
 
     def __str__(self):
         return self.cmp_name
@@ -314,6 +332,10 @@ class Branch(models.Model):
 
     # Primary key for the branch
     br_id = models.AutoField(primary_key=True)
+
+    fk_tenant_id = models.ForeignKey(TenantMaster, on_delete=models.CASCADE)
+
+    tenant_code = models.CharField(max_length=10, null=False)
 
     # Name of the branch
     br_name = models.CharField(max_length=255, unique=True, null=False)
@@ -340,13 +362,21 @@ class Branch(models.Model):
     br_postal_code = models.CharField(max_length=255, null=False)
 
     # Foreign key to the Company table
-    br_comp_id = models.ForeignKey(Company, on_delete=models.CASCADE, null=False)
+    fk_compid = models.ForeignKey(Company, on_delete=models.CASCADE, null=False)
+
+    cmp_code = models.CharField(max_length=10, null=False)
 
     # Time when the branch was created
     br_created_time = models.DateTimeField(auto_now_add=True, null=True, blank=True)
 
     # Time when the branch was last updated
     br_updated_time = models.DateTimeField(auto_now=True, null=True, blank=True)
+
+        # Created By
+    br_created_by = models.CharField(max_length=255, null=True, blank=True)
+
+    # Updated By
+    br_updated_by = models.CharField(max_length=255, null=True, blank=True)
 
     def __str__(self):
         return self.br_name

@@ -95,25 +95,25 @@ WSGI_APPLICATION = "tcrc_back_end.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "tcrc_master_backend_db_07052024",
+        "NAME": "tcrclmsdb",
         "USER": "postgres",
         "PASSWORD": "office@123",
-        "HOST": "localhost",
+        "HOST": "170.187.251.199",
         "PORT": "5432",
     }
 }
 
-# REST_FRAMEWORK = {
-#     # "DEFAULT_AUTHENTICATION_CLASSES": [
-#     #     "rest_framework_simplejwt.authentication.JWTAuthentication",
-#     # ],
-#     # "DEFAULT_PERMISSION_CLASSES": [
-#     #     "rest_framework.permissions.IsAuthenticated",
-#     # ],
-#     # "DEFAULT_PAGINATION_CLASS": "rest_framework.pagination.PageNumberPagination",
-#     # "PAGE_SIZE": 10,
-#     # "EXCEPTION_HANDLER": "lms_api.views.tokenException.custom_exception_handler",
-# }
+REST_FRAMEWORK = {
+    # "DEFAULT_AUTHENTICATION_CLASSES": [
+    #     "rest_framework_simplejwt.authentication.JWTAuthentication",
+    # ],
+    # "DEFAULT_PERMISSION_CLASSES": [
+    #     "rest_framework.permissions.IsAuthenticated",
+    # ],
+    "DEFAULT_PAGINATION_CLASS": "rest_framework.pagination.PageNumberPagination",
+    "PAGE_SIZE": 10,
+    # "EXCEPTION_HANDLER": "lms_api.views.tokenException.custom_exception_handler",
+}
 
 SIMPLE_JWT = {
     "USER_ID_FIELD": "usr_id",
