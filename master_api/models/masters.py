@@ -263,7 +263,7 @@ class Company(models.Model):
     tenant_code = models.CharField(max_length=10, null=False)
 
     # Name of the company
-    cmp_name = models.CharField(max_length=255, unique=True, null=False)
+    cmp_name = models.CharField(max_length=255, null=False)
     
 
     # Address of the company
@@ -288,16 +288,16 @@ class Company(models.Model):
     )
 
     # PAN number of the company
-    cmp_pan_no = models.CharField(max_length=255, unique=True, null=False)
+    cmp_pan_no = models.CharField(max_length=255,  null=False)
 
     # CIN number of the company
-    cmp_cin_no = models.CharField(max_length=255, unique=True, null=False)
+    cmp_cin_no = models.CharField(max_length=255, null=False)
 
     # GST number of the company
-    cmp_gst_no = models.CharField(max_length=255, unique=True, null=False)
+    cmp_gst_no = models.CharField(max_length=255, null=False)
 
     # IEC number of the company
-    cmp_iec_no = models.CharField(max_length=255, unique=True, null=False)
+    cmp_iec_no = models.CharField(max_length=255,  null=False)
 
     cmp_seal = models.CharField(max_length=255, null=False)
 
@@ -583,7 +583,7 @@ class Basis(models.Model):
     fk_tenant_id = models.ForeignKey(TenantMaster, on_delete=models.CASCADE)
 
     # Code of the basis
-    basis_code = models.CharField(max_length=10, unique=True, null=False)
+    basis_code = models.CharField(max_length=225, unique=True, null=False)
 
     # Name of the basis
     basis_name = models.CharField(max_length=255, unique=True, null=False)
